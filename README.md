@@ -1,0 +1,2 @@
+# fungame
+Classadoo generated repo

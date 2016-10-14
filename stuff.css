@@ -1,17 +1,23 @@
 #thetitle {
-color: blue;
-border: 10px;
-border-style: groove;
-border-color: red;
-text-align: center;
+  color: blue;
+  border: 10px;
+  border-style: groove;
+  border-color: red;
+  text-align: center;
 }
 
 #imagething {
-text-align:center
+  text-align:center
 }
 
 #image {
-border-style: inset;
+  border-style: inset;
 }
 
-#musak{}
+#musak{
+
+}
+
+#otramusak{
+text-align: right;
+}
